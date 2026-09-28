@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+seaborn
+matplotlib
+kagglehub
+apscheduler
+fastapi
+uvicorn
+streamlit
